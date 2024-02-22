@@ -1,4 +1,5 @@
 # Ignore SQLite database files
+*.token
 *.sqlite
 *.sqlite3
 *.db
